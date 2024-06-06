@@ -1,0 +1,27 @@
+{
+  "selectionColor": "#00FFFF",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": false,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "EXTENT"
+  ],
+  "layerState": {
+    "5fea980ea5624446acd13bebb4f4067b": {
+      "selected": true
+    },
+    "0e89a5bd70934a7d8f8002c997aa7fc5": {
+      "selected": true
+    },
+    "b43c0619c3c14d1080d15968612497d0": {
+      "selected": true
+    },
+    "3bb4037fb2ee49d7b68fc2fb792c5792": {
+      "selected": true
+    },
+    "77973f8da5fe46dd9078ef44aff6e28c": {
+      "selected": true
+    }
+  }
+}
